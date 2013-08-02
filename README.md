@@ -4,6 +4,8 @@ A First Level Header
 A Second Level Header
 ---------------------
 
+(http://www.csscube.info/wp-content/uploads/2013/03/github-logo.png)
+
 Now is the time for all good men to come to
 the aid of their country. This is just a
 regular paragraph.
