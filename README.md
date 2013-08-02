@@ -4,6 +4,7 @@ A First Level Header
 A Second Level Header
 ---------------------
 
+[![Build Status](http://www.csscube.info/wp-content/uploads/2013/03/github-logo.png)](http://travis-ci.org/twbs/bootstrap)
 (http://www.csscube.info/wp-content/uploads/2013/03/github-logo.png)
 
 Now is the time for all good men to come to
