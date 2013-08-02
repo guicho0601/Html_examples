@@ -4,8 +4,7 @@ A First Level Header
 A Second Level Header
 ---------------------
 
-[![Build Status](http://www.csscube.info/wp-content/uploads/2013/03/github-logo.png)](http://github.com/guicho0601)
-Hola checha
+Hola a todos
 
 Now is the time for all good men to come to
 the aid of their country. This is just a
